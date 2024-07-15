@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryvPckpDEOLZlzGUR7iDSXBU/HWAhc0Wh5S3qys8hGhR9RNjAyK/juH+GZA9aZlNUfBcUQb9Zr+udcyXZSUcMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\waaha\\source\\repos\\Reservations\\Reservation\\Reservation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waaha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\waaha\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\waaha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\waaha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
